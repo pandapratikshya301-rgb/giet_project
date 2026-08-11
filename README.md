@@ -2,7 +2,7 @@
 
 > A modern, responsive campus management web application built with React and Tailwind CSS, combining **library management, book circulation, member tracking, transactions, and an e-commerce-style catalogue** into a unified interface.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Application-7c3aed?style=for-the-badge)](giet-project-leua0hieq-pratikshay.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Application-7c3aed?style=for-the-badge)](https://vercel.com/pratikshay/giet-project)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
@@ -319,7 +319,7 @@ The current implementation is primarily frontend-focused. The next stage would b
 ## 🌐 Live Application
 
 **Live Demo:**
-giet-project-leua0hieq-pratikshay.vercel.app
+(https://vercel.com/pratikshay/giet-project)
 **Source Code:**
 https://github.com/pandapratikshya301-rgb/giet_project
 
